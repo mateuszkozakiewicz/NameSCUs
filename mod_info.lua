@@ -1,0 +1,10 @@
+name = "Name SCUs"
+version = 1.0
+copyright = "max"
+description = "Name all SCUs after ACU"
+author = "max"
+url = ""
+uid = "47572009-5578-4b25-82bc-67fe64dce858"
+exclusive = false
+ui_only = true
+conflicts = {}
